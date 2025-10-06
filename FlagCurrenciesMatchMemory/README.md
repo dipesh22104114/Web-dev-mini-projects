@@ -1,6 +1,6 @@
 # Flag & Currency Match - Memory Game 🎮
 
-A fun and educational desktop web-based memory game where players match country flags with names or currencies with country names.
+The Flag Match Memory Game is a fun and educational web-based project where players test their memory by matching country names with their corresponding flags. It enhances both memory and geographical knowledge. The game features randomized card layouts, smooth flip animations, a timer, and a move counter for an engaging experience. Flags are dynamically fetched using the REST Countries API, ensuring up-to-date and accurate data. Built using HTML, CSS, and JavaScript, the project follows a modular design for easy scalability and future enhancements.
 
 ## Features
 
@@ -38,6 +38,8 @@ A fun and educational desktop web-based memory game where players match country 
 - REST Countries API
 - CSS Grid & Flexbox
 - CSS Animations & Transforms
+
+
 
 ---
 *****MIT LICENSE******
